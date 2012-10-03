@@ -22,4 +22,4 @@ requires:
   Template: 0
 resources:
   repository: https://github.com/krimdomu/rex-template-tt
-version: v0.33.0
+version: v0.33.1
